@@ -1,7 +1,7 @@
 ## Olá eu Sou o Dinaerte "NETO"
 
-- 🔭 Hoje estou trabalhando como TechLead na Mediacao Online
-- 🌱 Estou aprendendo Clean Architeture com TDD usando Typescript e NodeJs
+- 🔭 Hoje estou trabalhando estou como Software Enginner Sr na Red Ventures.
+- 🌱 Estou aprendendo Clean Architeture com TDD usando GoLang
 - 📫 Contate-me no email: dinaerteneto@gmail.com
 
  <div>
