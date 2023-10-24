@@ -1,7 +1,7 @@
 ## Olá eu Sou o Dinaerte "NETO"
 
-- 🔭 Hoje estou trabalhando estou como Software Enginner Sr na Red Ventures.
-- 🌱 Estou aprendendo Clean Architeture com TDD usando GoLang
+- 🔭 Hoje estou trabalhando estou como Desenvolvedor na FarMe.
+- 🌱 Estou aprendendo Clean Architeture com TDD usando Kotlin
 - 📫 Contate-me no email: dinaerteneto@gmail.com
 
  <div>
